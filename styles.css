@@ -1,0 +1,122 @@
+.navbar {
+    background: url('assets/background.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.background {
+    /* background: rgb(26, 21, 74);
+    background: radial-gradient(circle, rgba(26, 21, 74, 1) 0%, rgba(0, 0, 0, 1) 100%); */
+    background: url('assets/backgroundtwo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.backgroundtwo {
+    background-image: url('assets/emptyroad.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.loginbtn {
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px RGB(78, 77, 77);
+    border-radius: 40px !important;
+}
+
+.ca1 img {
+    background-image: url('assets/car1.jpg');
+}
+
+.getturismo {
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px RGB(78, 77, 77);
+    border-radius: 40px !important;
+    width: 15%;
+
+    border: 5em;
+    cursor: pointer;
+    outline: none;
+    /* font-size: 16px; */
+    border: linear-gradient(45deg, #ff0c0c, #1e2fff);
+    box-shadow: 1px 1px 15px linear-gradient(45deg, #ff0c0c, #1e2fff);
+    -webkit-transition: box-shadow 0.25s;
+    transition: box-shadow 0.25s;
+    width: 15%;
+}
+
+.backgroundthree {
+    background: white;
+}
+
+.card {
+    border-radius: 25px !important;
+    overflow: hidden !important;
+}
+
+.heightmanage {
+    max-height: 450px !important;
+}
+
+.carousel-indicators {
+    transform: translateY(-110px) !important;
+}
+
+.carddeals {
+    /* display: flex !important; */
+    /* border: 1px solid grey; */
+    border-radius: 25px !important;
+    overflow: hidden !important;
+    background-color: black;
+}
+
+.plusbutton {
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px RGB(78, 77, 77);
+    border-radius: 40px !important;
+}
+
+.switch-container {
+    width: 12%;
+    background: #1c1c1c;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.carddealstwo {
+    display: flex !important;
+    border-radius: 25px !important;
+    overflow: hidden !important;
+    background-color: black;
+}
+.cardtestimonial{
+    width: 30% !important;
+}
+/* .testimonial-slider {
+    width: 70%;
+    margin: auto;
+  }
+
+  .testimonial-card {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+  } */
+
+  .slick-prev, .slick-next {
+    font-size: 24px;
+    color: #333;
+  }
